@@ -1,4 +1,4 @@
-/*************** Reset *********************/
+/*************** Reset ALDRIG ÆNDRE DET HER *********************/
 * {
   margin: 0;
   padding: 0;
@@ -9,6 +9,9 @@ img {
   width: 100%;
   height: auto;
   display: block;
+}
+/***********Billeder**************/
+img {
   padding-block: 0.5rem;
   border-radius: 25px;
 }
